@@ -18,7 +18,7 @@
       <ColumnDefinition Width="400"></ColumnDefinition>
     </Grid.ColumnDefinitions>
     <TextBlock Grid.Column="0" Text="1224544" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-    <Button Content="点击" Grid.Column="1" Width="120" Height="80" Command="{Binding btnClick}"></Button>
+    <Button Content="Click Me" Grid.Column="1" Width="120" Height="80" Command="{Binding btnClick}"></Button>
   </Grid>
 
 </Window>
