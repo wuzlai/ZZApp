@@ -1,0 +1,24 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:ZZApp.ViewModels;assembly=ZZApp"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="ZZApp.Views.MainWindow"
+        Icon="/Assets/avalonia-logo.ico"
+        Title="ZZApp">
+
+  <Design.DataContext>
+    <vm:MainWindowViewModel/>
+  </Design.DataContext>
+
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition Width="120"></ColumnDefinition>
+      <ColumnDefinition Width="400"></ColumnDefinition>
+    </Grid.ColumnDefinitions>
+    <TextBlock Grid.Column="0" Text="1224544" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    <Button Content="点击" Grid.Column="1" Width="120" Height="80" Command="{Binding btnClick}"></Button>
+  </Grid>
+
+</Window>

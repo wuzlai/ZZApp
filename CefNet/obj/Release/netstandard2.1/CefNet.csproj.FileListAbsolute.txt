@@ -1,0 +1,11 @@
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.csprojAssemblyReference.cache
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.AssemblyInfoInputs.cache
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.AssemblyInfo.cs
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.csproj.CoreCompileInputs.cache
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.dll
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\bin\Release\netstandard2.1\CefNet.deps.json
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\bin\Release\netstandard2.1\CefNet.dll
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.il
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.res
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\CefNet.res.obj
+G:\ReceriveRemoteLiunxFile\MesignCode\2\ZZApp\CefNet\obj\Release\netstandard2.1\DesignTimeResolveAssemblyReferencesInput.cache

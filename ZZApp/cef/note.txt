@@ -1,0 +1,6 @@
+Store Windows or Linux versions of CEF files as required by the system environment
+
+
+cef_binary_84.4.0+g304e015+chromium-84.0.4147.105_linux64.tar.bz2
+
+cef_binary_84.4.0+g304e015+chromium-84.0.4147.105_macosx64.tar.bz2

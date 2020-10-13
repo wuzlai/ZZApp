@@ -1,0 +1,14 @@
+﻿<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        Width="600" Height="720"
+        xmlns:ext="clr-namespace:ZZApp;assembly=ZZApp"
+        x:Class="ZZApp.Views.UserAgreementView"
+        Title="UserAgreementView" WindowStartupLocation="CenterScreen">
+  <Border BorderBrush="Red" BorderThickness="1">
+    <Grid>
+      <ext:CustomWebView x:Name="webView" Grid.Row="0"></ext:CustomWebView>
+    </Grid>
+  </Border>
+</Window>

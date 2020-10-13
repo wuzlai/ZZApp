@@ -1,0 +1,12 @@
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\bin\Debug\net45\CefNet.dll
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\bin\Debug\net45\CefNet.pdb
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.csprojAssemblyReference.cache
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.AssemblyInfoInputs.cache
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.AssemblyInfo.cs
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.csproj.CoreCompileInputs.cache
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.il
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.res
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.res.obj
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\DesignTimeResolveAssemblyReferencesInput.cache
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.dll
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet\obj\Debug\net45\CefNet.pdb

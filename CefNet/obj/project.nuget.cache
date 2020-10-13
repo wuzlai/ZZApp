@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KG+noL22l7auRls+/JH5GCyUh8Mwg2NU3Y0y+0L5UCEL4YG7PH1l7J2Xo1JFK893gfW4E0uD8H+kX3WKgYoylw==",
+  "success": true,
+  "projectFilePath": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj",
+  "expectedPackageFiles": [
+    "/Users/wuzhenglai/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/wuzhenglai/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

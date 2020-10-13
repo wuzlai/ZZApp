@@ -1,0 +1,4 @@
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet.Avalonia\obj\Debug\net461\CefNet.Avalonia.csprojAssemblyReference.cache
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet.Avalonia\obj\Debug\net461\CefNet.Avalonia.AssemblyInfoInputs.cache
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet.Avalonia\obj\Debug\net461\CefNet.Avalonia.AssemblyInfo.cs
+C:\Users\Wuzl\Downloads\CefNet-avalonia-0.10\CefNet.Avalonia\obj\Debug\net461\CefNet.Avalonia.csproj.CoreCompileInputs.cache

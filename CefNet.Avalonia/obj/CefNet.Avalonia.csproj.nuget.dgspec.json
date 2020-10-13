@@ -1,0 +1,188 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet.Avalonia/CefNet.Avalonia.csproj": {}
+  },
+  "projects": {
+    "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet.Avalonia/CefNet.Avalonia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet.Avalonia/CefNet.Avalonia.csproj",
+        "projectName": "CefNet.Avalonia",
+        "projectPath": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet.Avalonia/CefNet.Avalonia.csproj",
+        "packagesPath": "/Users/wuzhenglai/.nuget/packages/",
+        "outputPath": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet.Avalonia/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/Users/wuzhenglai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj": {
+                "projectPath": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj"
+              }
+            }
+          },
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj": {
+                "projectPath": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[0.10.0-preview5, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "dependencies": {
+            "Avalonia": {
+              "target": "Package",
+              "version": "[0.10.0-preview5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj",
+        "projectName": "CefNet",
+        "projectPath": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/CefNet.csproj",
+        "packagesPath": "/Users/wuzhenglai/.nuget/packages/",
+        "outputPath": "/Volumes/ReceriveRemoteLiunxFile/MesignCode/2/ZZApp/CefNet/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/Users/wuzhenglai/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0",
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          },
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        },
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
